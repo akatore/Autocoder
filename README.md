@@ -1,1 +1,6 @@
-Dive into the cutting-edge intersection of DevOps and AI with AutoCoder. This project guides you to build a reusable GitHub Action that leverages Generative AI to auto-generate code. You will create workflows, interact with OpenAI using scripts, enforce security standards, and eventually convert your project to a reusable GitHub Action to share with others or show off in your portfolio.
+# AutoCoder
+AutoCoder is an automated code generation tool designed to speed up the software development process by generating boilerplate code, templates, and other repetitive structures based on issues and predefined patterns.
+## Features
+- Code Templates Jumpstart your projects with a variety of language-specific templates;
+- Customizable Generation: Tailor the generated code to your specific needs by specifying your prompt as a GitHub Issue,
+- Integration Support Works as part of your CI/CD pipeline using workflows with GitHub Actions;
